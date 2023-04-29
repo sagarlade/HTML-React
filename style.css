@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+
+.heading{
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    text-align: left;
+    width: 80%;
+    margin: 1rem auto;
+    color: rgb(5, 55, 83);
+}
+
+img{
+    height: 30vh;
+    width: 100%;
+}
+
+.boxp{
+    margin-left: 3px;
+}
+
+.box i{
+    font-size: 1.5rem;
+    align-items: center;
+}
+
+.container1{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 44%;
+    margin: 3px auto;
+}
+.bod{
+    display: flex;
+    width: 100%;
+    margin: 1rem auto;
+}
+.b1 i{
+    display: block;
+    font-size: 1.4rem;
+    margin-left: 5rem;
+    margin-top: 1.5rem;
+    float: left;
+    text-align: center;
+    color: rgb(121, 190, 18);
+}
+.b1 .icon2{
+    margin-top: 3rem;
+}
+.b1 .icon3{
+    margin-top: 2.5rem;
+}
+.b1 .icon4{
+    margin-top: 3rem;
+}
+.b1 .icon5{
+    margin-top: 3rem;
+}
+.b1 .icon6{
+    margin-top: 3rem;
+}
+.b2 p{
+    display: block;
+    float: left;
+    margin-left: 2rem;
+    width: 80%;
+    margin-top: 1rem;
+    font-size: 1.2rem;
+}
+b{
+    font-weight: 600;
+    color:rgb(6, 158, 185);
+    margin-right: 5px;
+}
+
+/*  END OF STYLE SHEET*/
